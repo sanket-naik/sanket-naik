@@ -5,8 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1605829592/11401/among-us-dance.gif?1605829592" width="30"/> Hi there.</h1> 
+<p>I'm Sanket, Fullstack developer from <img src="https://res.cloudinary.com/dlmozkbdc/image/upload/v1611118478/Github%20readme/india_unenam.svg" width="15"/> <b>India</b>, living in <b>Bangalore</b>. </p>
 
-<p>Welcome to my page! </br> I'm Sanket, Fullstack developer from <img src="https://res.cloudinary.com/dlmozkbdc/image/upload/v1611118478/Github%20readme/india_unenam.svg" width="15"/> <b>India</b>, living in <b>Bangalore</b>. </p>
+- 🔭 I’m currently working on React :wink:
+- 🌱 I’m currently learning PWA
+- 💬 Ask me about anything related to Javascript/Node or React/Redux/Webpack/HTML/CSS
+- 📫 How to reach me: <a rel="me" href="https://resume-sanket.herokuapp.com/">I'm here</a>
+- ⚡ Fun fact: I :heart: :dog:s
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white" />
