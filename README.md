@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning PWA
 - 💬 Ask me about anything related to Javascript/Node or React/Redux/Webpack/HTML/CSS
 - 📫 How to reach me: <a rel="me" href="https://resume-sanket.herokuapp.com/">I'm here</a>
-- ⚡ Fun fact: I :heart: :dog:s
+- ⚡ Fun fact: NaN is not equal to anything. not even to itself.
 
 
 <h3>Things I code with</h3>
