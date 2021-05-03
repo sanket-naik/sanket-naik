@@ -11,7 +11,8 @@
 - 🔭 I’m currently working on React :wink:
 - 🌱 I’m currently learning PWA
 - 💬 Ask me about anything related to Javascript/Node or React/Redux/Webpack/HTML/CSS
-- 📫 How to reach me: <a rel="me" href="https://resume-sanket.herokuapp.com/">I'm here</a>, and visit my Blog: <a rel="me" href="https://bleedinginks.com/">https://bleedinginks.com</a>
+- 📫 How to reach me: <a rel="me" href="https://resume-sanket.herokuapp.com/">I'm here</a>
+- 📫 Visit my Blog: <a rel="me" href="https://bleedinginks.com/">bleedinginks.com</a>
 - ⚡ Fun fact: NaN is not equal to anything. not even to itself.
 
 
