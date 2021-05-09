@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605829592/11401/among-us-dance.gif?1605829592" width="30"/> Hi there.</h1> 
-<p>I'm Sanket, Frontend developer from <img src="https://res.cloudinary.com/dlmozkbdc/image/upload/v1611118478/Github%20readme/india_unenam.svg" width="15"/> <b>India</b>, living in <b>Bangalore</b>. </p>
+<p>I'm Sanket, Senior Frontend developer from <img src="https://res.cloudinary.com/dlmozkbdc/image/upload/v1611118478/Github%20readme/india_unenam.svg" width="15"/> <b>India</b>, living in <b>Bangalore</b>. </p>
 
 - 🔭 I’m currently working on React :wink:
 - 🌱 I’m currently learning PWA
